@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vdqfgv09svtwsyfw?svg=true)](https://ci.appveyor.com/project/Juliyap2887/card-selenium)
